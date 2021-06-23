@@ -1,5 +1,5 @@
 # UnityML-BOY
- My graduate wproject where an agent is trained using reinforcement learning to learn to play a game. There is user version and agent version of the game.
+ My graduate project where an agent is trained using reinforcement learning to learn to play a game. There is user version and agent version of the game.
 
 1. Introduction
 
@@ -18,21 +18,24 @@ the game will fail, and the game area will blink in red (Fig7).
 So the goal is to train the boy (agent) without any data (reinforcement learning) and
 make it learn how to play the game properly.
 
+![image](https://user-images.githubusercontent.com/61790422/123057130-4826ce00-d410-11eb-93ba-ea8e54740876.png)
 Figure 1: A Present (They should be collected to earn points)
 
-
+![image](https://user-images.githubusercontent.com/61790422/123057065-38a78500-d410-11eb-8f18-536e54fcdb18.png)
 Figure 2 : Obstacle (they block the view and stand in the way of agent.)
 
+![image](https://user-images.githubusercontent.com/61790422/123057274-68568d00-d410-11eb-8eb8-9a1c5c24bd9e.png)
 Figure 3: Traps (They reduce the score and fails the current game restarting the game table)
 
-
+![image](https://user-images.githubusercontent.com/61790422/123057338-760c1280-d410-11eb-93ab-b69e83c1eeb8.png)
 Figure 4: Meet with our agent the “BOY.” (Boy has 4 inputs which are moving forward move
 backward rotate clockwise and rotate counterclockwise.)
 
+![image](https://user-images.githubusercontent.com/61790422/123057376-7efce400-d410-11eb-8ad0-784cdb4000d2.png)
 Figure 5: Game Arena consisting of traps obstacle and presents. This is the overall look of the
 the area where the game is played.
 
-
+![image](https://user-images.githubusercontent.com/61790422/123057425-88864c00-d410-11eb-895c-d1a8e5c25400.png)
 Figure 6: Arena blinking in green Figure 7: Arena Blinking in red.
 
 3. Methodology
